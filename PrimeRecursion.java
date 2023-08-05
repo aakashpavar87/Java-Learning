@@ -2,10 +2,9 @@ import java.util.*;
 
 public class PrimeRecursion {
     public static void prime(int n, int x) {
-        if (n % x == 0) {
-            System.out.println(n + " is not prime");
-        }
         if (x == n) {
+            System.out.println(n + " is not prime");
+        } else if  (n % x == 0){
             System.out.println(n + " is a prime number.");
         } else{
             prime(n,x+1);
