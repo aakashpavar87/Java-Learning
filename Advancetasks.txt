@@ -1,0 +1,6 @@
+Find first and last occurance of element in string <--<<
+Find or check that given array is strictly increasing or not <--<<
+Move a particular element to end "axbcxxd" <--<<
+Remove duplicate  character in string <--<<
+Print all subsequence of a string <--<<
+Print all unique subsequence of a string <--<<
